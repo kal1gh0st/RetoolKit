@@ -16,10 +16,6 @@ You don't. Obviously, you can download such tools from their own website and ins
 
 The *.iss files you see here are the source code for our setup program built with [Inno Setup](https://jrsoftware.org/isinfo.php). To download the real thing, you have to go to the [Releases](https://github.com/mentebinaria/retoolkit/releases) section and download the setup program.
 
-## Included tools
-
-![](assets/ret.gif)
-
 ## Is it safe to install it in my environment?
 
 I don't know. Some included tools are not open source and come from shady places. You should use it exclusively in virtual machines and under your own responsibility.
